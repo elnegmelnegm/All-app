@@ -16,3 +16,6 @@ Powered by Google AI <img src="https://seeklogo.com/images/G/google-ai-logo-996E
 st.link_button("Drug side effects and interactions", "https://drug-drug-5qohebfrcptarhcj8niwgo.streamlit.app/")
 st.markdown('''
 This application enables users to access comprehensive information about a specific drug by providing its name. Users can input the name of the drug, and the app will retrieve detailed information on various aspects, including but not limited to, indications, contraindications, potential side effects, and any known drug interactions.''', unsafe_allow_html=True)
+
+st.markdown('''
+هذا التطبيق يمكّن المستخدمين من الوصول إلى معلومات شاملة حول دواء معين عن طريق تقديم اسمه. يُمكن المستخدمين من إدخال اسم الدواء، حيث سيقوم التطبيق بجلب معلومات مفصلة حول جوانب متنوعة، تشمل ولكن لا تقتصر على الدلالات، والتوجيهات، والتحذيرات، والآثار الجانبية المحتملة، وأي تفاعلات معروفة مع الأدوية الأخرى''', unsafe_allow_html=True)
