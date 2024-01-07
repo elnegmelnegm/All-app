@@ -17,6 +17,6 @@ st.link_button("Drug side effects and interactions", "https://drug-drug-5qohebfr
 #st.markdown('''
 #This application enables users to access comprehensive information about a specific drug by providing its name. Users can input the name of the drug, and the app will retrieve detailed information on various aspects, including but not limited to, indications, contraindications, potential side effects, and any known drug interactions''', unsafe_allow_html=True)
 
-st.markdown('''
+
 st.link_button("Drug side effects and interactions", "https://drug-drug-5qohebfrcptarhcj8niwgo.streamlit.app/",type="primary", use_container_width= True, help="")
-''', unsafe_allow_html=True)
+
