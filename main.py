@@ -22,6 +22,10 @@ st.link_button("Drug Food Interactions App", "https://drug-drug-interaction-hyk3
 
 st.link_button("Nutritional Guidance App ", "https://dpc-eda-iwjjdpb87qynvv5zjprgqb.streamlit.app/", use_container_width= True, help="This application empowers users to access comprehensive information about a specific food item and its potential effect on diabetes, hypertension and hypercholesterolemia by providing its picture. Users can input the picture of the food, and the app will retrieve detailed information on various aspects of potential effect on mentioned diseases.هذا التطبيق يمكن المستخدمين من الوصول إلى معلومات شاملة حول طعام معين وتاثيره على مرضى السكر او ضغط الدم او مرضى الذين يعانون من ارتفاع نسبة الكوليسترول عن تقديم صورة. يُمكن المستخدمين من إدخال صورة الطعام، حيث سيقوم التطبيق بجلب معلومات مفصلة حول تاثيره على الامراض المذكورة مسبقا ")
 
+
 st.link_button("Occupational Safety Measures App", "https://safety-f5spch8ivk7o3eccedaqd8.streamlit.app/", use_container_width= True, help="This application empowers users to access comprehensive information about safety measures in different workplaces. Users can input the name of the  workplace, and the app will retrieve detailed information on various potential risks, and preventive measures.هذا التطبيق يمكن المستخدمين من الوصول إلى معلومات شاملة حول السلامه المهنية في بيئات العمل المختلفة عن طريق تقديم اسمه. يُمكن المستخدمين من إدخال اسم مكان العمل حيث سيقوم التطبيق بجلب معلومات مفصلة حول جوانب متنوعة، تشمل المخاطر وطرق منعه")
 
 st.link_button("Chat App with a Variety of Tasks", "https://evastauxeasqz3wahcrvmh.streamlit.app/", use_container_width= True, help="This application can answer questions.  هذا التطبيق يمكن المستخدمين من الاجابة على الاسئلة ")
+
+st.link_button("Assay Calculations App ", "https://elnegmelnegm-first-app-ydrlh3.streamlit.app/", use_container_width= True, help="This application enables users to calculate the assay.هذا التطبيق يمكن المستخدمين من حساب نسبة المادة ")
+
