@@ -10,6 +10,7 @@ st.set_page_config(
 st.markdown('''
 <img src="https://www.edaegypt.gov.eg/media/wc3lsydo/group-287.png" width="250" height="100">''', unsafe_allow_html=True)
 
+st.title("EDA Smart Lab App")
 st.markdown('''
 Powered by CADC support team to expedite and enhance laboratory analysis.''', unsafe_allow_html=True)
 #st.link_button("Drug Side Effects and Interactions App", "https://drug-drug-5qohebfrcptarhcj8niwgo.streamlit.app/",use_container_width= True, help="This application enables users to access comprehensive information about a specific drug by providing its name. Users can input the name of the drug, and the app will retrieve detailed information on various aspects, including but not limited to, indications, contraindications, potential side effects, and any known drug interactions. هذا التطبيق يمكّن المستخدمين من الوصول إلى معلومات شاملة حول دواء معين عن طريق تقديم اسمه. يُمكن المستخدمين من إدخال اسم الدواء، حيث سيقوم التطبيق بجلب معلومات مفصلة حول جوانب متنوعة، تشمل ولكن لا تقتصر على الدلالات، والتوجيهات، والتحذيرات، والآثار الجانبية المحتملة، وأي تفاعلات معروفة مع الأدوية الأخرى")
