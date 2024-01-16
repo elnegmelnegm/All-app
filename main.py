@@ -37,7 +37,7 @@ st.link_button("ExpiriChem Calender ", "https://calendar.google.com/calendar/emb
 
 
 st.link_button("Occupational Safety Measures App", "https://safety-f5spch8ivk7o3eccedaqd8.streamlit.app/", use_container_width= True, help="This application empowers users to access comprehensive information about safety measures in different workplaces. Users can input the name of the  workplace, and the app will retrieve detailed information on various potential risks, and preventive measures. هذا التطبيق يمكن المستخدمين من الوصول إلى معلومات شاملة حول السلامه المهنية في بيئات العمل المختلفة عن طريق تقديم اسمه. يُمكن المستخدمين من إدخال اسم مكان العمل حيث سيقوم التطبيق بجلب معلومات مفصلة حول جوانب متنوعة، تشمل المخاطر وطرق منعه")
-st.link_button("Chat App with a Variety of Tasks", "https://evastauxeasqz3wahcrvmh.streamlit.app/", use_container_width= True, help="This application can answer questions.  هذا التطبيق يمكن المستخدمين من الاجابة على الاسئلة ")
+#st.link_button("Chat App with a Variety of Tasks", "https://evastauxeasqz3wahcrvmh.streamlit.app/", use_container_width= True, help="This application can answer questions.  هذا التطبيق يمكن المستخدمين من الاجابة على الاسئلة ")
 
 
 
