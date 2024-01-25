@@ -23,6 +23,8 @@ Powered by CADC support team to expedite and enhance laboratory analysis.''', un
 #st.link_button("Nutritional Guidance App ", "https://dpc-eda-iwjjdpb87qynvv5zjprgqb.streamlit.app/", use_container_width= True, help="This application empowers users to access comprehensive information about a specific food item and its potential effect on diabetes, hypertension and hypercholesterolemia by providing its picture. Users can input the picture of the food, and the app will retrieve detailed information on various aspects of potential effect on mentioned diseases. هذا التطبيق يمكن المستخدمين من الوصول إلى معلومات شاملة حول طعام معين وتاثيره على مرضى السكر او ضغط الدم او مرضى الذين يعانون من ارتفاع نسبة الكوليسترول عن تقديم صورة. يُمكن المستخدمين من إدخال صورة الطعام، حيث سيقوم التطبيق بجلب معلومات مفصلة حول تاثيره على الامراض المذكورة مسبقا ")
 st.link_button("Follow-up Tracker App ", "https://app.powerbi.com/view?r=eyJrIjoiNWVmNzlhNzYtZGExMy00OGNmLThiM2QtOTM2YmU3NDQwOWRiIiwidCI6ImUxNjE5YjA3LTAxMjAtNGRmOS04NjZkLTNhNjA0MDVjMmMxNCJ9", use_container_width= True, help="This application enables us to follow up the samples in synchronized way between support team members and labs. هذا التطبيق يمكن من متابعة العينات قيد التحليل من فريق الدعم والمعامل بشكل متسق   ")
 
+st.link_button("Allowable Adjustments for Chromatography Parameters App ", "https://allowable-33-jpppjuotdli9stxsrlrulf.streamlit.app/", use_container_width= True, help="This application enables users to adjust for Chromatography Parameters in isocratic HPLC methods. هذا التطبيق يسمح بالتعديل في الطريقة وفق للمسموح بيه ")
+
 
 
 
